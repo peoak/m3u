@@ -16,7 +16,7 @@ https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
 #EXTINF:0,FoxThai
 #EXTVLCOPT:network-caching=1000
-https://www.livedoomovie.com/02_FoxThai_720p/chunklist.m3u8
+https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
 #EXTINF:0,TrueFilmHD
 #EXTVLCOPT:network-caching=1000
 https://www.livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
