@@ -29,6 +29,9 @@ https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
 #EXTINF:0,FoxMoviesTH
 #EXTVLCOPT:network-caching=1000
 https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
-#EXTINF:0,FoxActionHD_TH
+#EXTINF:0,FoxAction_TH
 #EXTVLCOPT:network-caching=1000
 https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
+#EXTINF:0,MYSCIHD
+#EXTVLCOPT:network-caching=1000
+https://www.livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8
