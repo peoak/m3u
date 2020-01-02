@@ -1,31 +1,31 @@
 #EXTM3U
-#EXTINF:0,PremiereHD1.m3u8
+#EXTINF:0,PremiereHD1
 #EXTVLCOPT:network-caching=1000
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
-#EXTINF:0,PremiereHD2.m3u8
+#EXTINF:0,PremiereHD2
 #EXTVLCOPT:network-caching=1000
 http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
-#EXTINF:0,Boomerang.m3u8?p=st
+#EXTINF:0,Boomerang
 #EXTVLCOPT:network-caching=1000
 http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
-#EXTINF:0,Gang Cartoon.m3u8
+#EXTINF:0,Gang Cartoon
 #EXTVLCOPT:network-caching=1000
 https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
-#EXTINF:0,Cartoon Club.m3u8
+#EXTINF:0,Cartoon Club
 #EXTVLCOPT:network-caching=1000
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
-#EXTINF:0,FoxThai.m3u8
+#EXTINF:0,FoxThai
 #EXTVLCOPT:network-caching=1000
 https://www.livedoomovie.com/02_FoxThai_720p/chunklist.m3u8
-#EXTINF:0,TrueFilmHD.m3u8
+#EXTINF:0,TrueFilmHD
 #EXTVLCOPT:network-caching=1000
 https://www.livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
-#EXTINF:0,HBOHD.m3u8
+#EXTINF:0,HBOHD
 #EXTVLCOPT:network-caching=1000
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-#EXTINF:0,HBOHit.m3u8
+#EXTINF:0,HBOHit
 #EXTVLCOPT:network-caching=1000
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
-#EXTINF:0,FoxMoviesTH.m3u8
+#EXTINF:0,FoxMoviesTH
 #EXTVLCOPT:network-caching=1000
 https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
