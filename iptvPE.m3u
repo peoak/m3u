@@ -6,7 +6,7 @@ http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
 #EXTINF:0,PremiereHD2
 http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
 
-#EXTINF:0,Boomerang
+#EXTINF:0,Boomerang1
 http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
 
 #EXTINF:0,Gang Cartoon
