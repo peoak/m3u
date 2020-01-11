@@ -1,37 +1,27 @@
 #EXTM3U
 
+
 #EXTINF:0,PremiereHD1
 http://103.208.24.234:1935/thaisport/epl-1.stream/playlist.m3u8
-
 #EXTINF:0,PremiereHD2
 http://103.208.24.234:1935/thaisport/epl-2.stream/playlist.m3u8
-
 #EXTINF:0,Boomerang1
 http://27.254.130.64/live01/chsd_T_News_18.m3u8?p=st
-
 #EXTINF:0,Gang Cartoon
 https://gcorigin.wisdomcloud.net/live/master/playlist.m3u8_500.m3u8
-
 #EXTINF:0,Cartoon Club
 http://edge4-bkk.3bb.co.th:1935/CartoonClub_Livestream/cartoonclub_480P.stream/chunklist.m3u8
-
 #EXTINF:0,FoxThai
 https://www.livedoomovie.com/02_FoxThai_TH_720p/chunklist.m3u8
-
 #EXTINF:0,TrueFilmHD
 https://www.livedoomovie.com/02_TrueFilmHD1_720p/chunklist.m3u8
-
 #EXTINF:0,HBOHD
 https://www.livedoomovie.com/02_HBOHD_720p/chunklist.m3u8
-
 #EXTINF:0,HBOHit
 https://www.livedoomovie.com/02_HBOHit_720p/chunklist.m3u8
-
 #EXTINF:0,FoxMoviesTH
 https://www.livedoomovie.com/02_FoxMoviesTH_720p/chunklist.m3u8
-
 #EXTINF:0,FoxAction_TH
 https://www.livedoomovie.com/02_FoxActionHD_TH_720p/chunklist.m3u8
-
 #EXTINF:0,MYSCIHD
 https://www.livedoomovie.com/02_MYSCIHD_720p/chunklist.m3u8
